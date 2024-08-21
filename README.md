@@ -53,3 +53,8 @@ Todos los derechos de este proyecto están reservados a Berenice Arteaga.  Este 
 
 ![image](https://github.com/user-attachments/assets/19c1e24c-4963-459d-aa0f-3f3196b07656)
 
+![image](https://github.com/user-attachments/assets/8ba364cc-651f-462d-bbbd-0078902871da)
+
+
+
+

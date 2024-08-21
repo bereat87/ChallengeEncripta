@@ -11,12 +11,13 @@
 
 :root{
     --color-primario: white;
-    --color-secundario: #5c3db0;
-    --color-terciario: aqua;
-    --color-hover: rgb(176, 255, 255);
-    --color-text-copiar: #fabbf7;
-    --creditos: rgb(176, 255, 255);
-    --btn-desencriptar: #edd5ff;
+    --color-secundario: #b83232;
+    --color-terciario: #faa967;
+    --color-hover: #ffe2ca;
+    --color-text-copiar: #e8e4e4;
+    --creditos: #ffe2ca;
+    --btn-desencriptar: #dbffcb;
+    --font-creditos: #2b2a2a ;
 }
 
 .logo {

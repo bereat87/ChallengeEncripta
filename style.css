@@ -67,7 +67,7 @@ section .ojo {
 
 .mensaje {
     background: white;
-    background-image: url("eyegif.gif");
+    background-image: url("eyegreen.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

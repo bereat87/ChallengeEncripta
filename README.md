@@ -48,3 +48,5 @@ Derechos de Autor 👩🏻💻 👩🏻💻
 Todos los derechos de este proyecto están reservados a Berenice Arteaga.  Este proyecto fue creado como proyecto final para Alura Latam con fines educativos para aprender a usar las tecnologías como CSS, HTML5 y JavaScript.
 
 ¡Compárteme tu experiencia y codifiquemos juntxs 🧿!
+
+![alt text](image-1.png)

@@ -16,11 +16,16 @@
 
 "u" se convierte en "ufat".
 
-👩🏻🏫Instrucciones
-▶️Ingresa tu mensaje secreto. 
+👩🏻Instrucciones
+
+▶️Ingresa tu mensaje secreto.
+
 ▶️Da clic en el botón encriptar.
+
 ▶️Da clic en copiar (para enviar tu mensaje encriptado).
+
 ▶️Si así lo deseas, puedes desencriptar este mensaje ingresándolo en el campo de texto y dando clic en el botón desencriptar.
+
 🚫 🙅Restricciones: No admite acentos, mayúsculas o caracteres especiales.
 
 👩💻Tecnologías usadas 👩💻

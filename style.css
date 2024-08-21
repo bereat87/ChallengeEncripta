@@ -106,7 +106,7 @@ section .ojo {
     width: 100%;
     text-align: center;
     padding: 10px;
-    gap: 2px;
+    gap: 5px;
 }
 
 .btn-encriptar {

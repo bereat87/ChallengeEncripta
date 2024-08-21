@@ -95,7 +95,6 @@ section .ojo {
     gap: 10px;
     margin-top: 18px;
     width: 100%;
-    font-size: 15px;
 }
 
 .btn-desencriptar, .btn-encriptar, .copiar {
@@ -107,17 +106,18 @@ section .ojo {
     width: 100%;
     text-align: center;
     padding: 10px;
-    font-size: 32px;
 }
 
 .btn-encriptar {
     background-color: var(--color-primario);
     color: var(--color-secundario);
+    font-size: 25px;
 }
 
 .btn-desencriptar{
     background-color: var(--btn-desencriptar);
     color: var(--color-secundario);
+    font-size: 25px;
 }
 
 .copiar {
@@ -125,6 +125,7 @@ section .ojo {
     margin-top: 20px;
     color: var(--color-text-copiar);
     margin-left: 4%;
+    font-size: 32px;
 }
 
 .informacion {

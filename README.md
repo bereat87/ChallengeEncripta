@@ -50,3 +50,6 @@ Todos los derechos de este proyecto están reservados a Berenice Arteaga.  Este 
 ¡Compárteme tu experiencia y codifiquemos juntxs 🧿!
 
 ![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/19c1e24c-4963-459d-aa0f-3f3196b07656)
+

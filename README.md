@@ -1,14 +1,19 @@
-📲 🕵🏻♀️Encriptador - ¡Diviertete encriptando tu mensaje! 
+📲 🕵🏻Encriptador - ¡Diviertete encriptando tu mensaje! 
 
 🔎💻Encriptador es una aplicación web interactiva que te permite transformar tus mensajes en un código secreto indescifrable para cualquiera que no tenga las claves correctas.
 
 ‼️👉Esta aplicación te ayudara a crear mensajes secretos que solo quienes tengan acceso o conozcan las claves podrán descifrar. 
 
 🔑 Reglas de encriptación
+
 "a" se convierte en "ai".
+
 "e" se convierte en "enter".
+
 "i" se convierte en "imes".
+
 "o" se convierte en "ober".
+
 "u" se convierte en "ufat".
 
 👩🏻🏫Instrucciones

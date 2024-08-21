@@ -9,7 +9,15 @@
 
 }
 
-
+:root{
+    --color-primario: white;
+    --color-secundario: #5c3db0;
+    --color-terciario: aqua;
+    --color-hover: rgb(176, 255, 255);
+    --color-text-copiar: #fabbf7;
+    --creditos: rgb(176, 255, 255);
+    --btn-desencriptar: #edd5ff;
+}
 
 .logo {
     padding-top: 3%;
@@ -41,7 +49,7 @@ section .mensaje {
 
 section .ojo {
     margin-top: 10px;
-    color: #5c3db0;
+    color: var(--color-secundario);
 }
 
 .text-area {
@@ -51,13 +59,13 @@ section .ojo {
 
 .text-area, .mensaje {
     border: none;
-    color: #5c3db0;
+    color: var(--color-secundario);
     margin-left: 5%;
     margin-top: 10px;
     padding: 10px;
     width: 100%;
     border-radius: 12px;
-    box-shadow: 0 4px 8px #5c3db0(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px var(--color-secundario);
     text-transform: lowercase;
 }
 
@@ -66,7 +74,7 @@ section .ojo {
 }
 
 .mensaje {
-    background: white;
+    background: var(--color-primario);
     background-image: url("eyegreen.gif");
     background-repeat: no-repeat;
     background-position: center;
@@ -77,7 +85,7 @@ section .ojo {
 }
 
 ::placeholder {
-    color: #5c3db0;
+    color: var(--color-secundario);
 }
 
 .botones {
@@ -89,37 +97,36 @@ section .ojo {
 }
 
 .btn-desencriptar, .btn-encriptar, .copiar {
-    border: 1px solid #5c3db0;
+    border: 1px solid var(--color-secundario);
     border-radius: 24px;
-    color: #5c3db0;
+    color: var(--color-secundario);
     cursor: pointer;
     height: 50px;
     width: 100%;
     text-align: center;
     padding: 10px;
     font-size: 32px;
-    background-color: #D8DFE8;
 }
 
 .btn-encriptar {
-    background-color: white;
-    color: #5c3db0;
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
 }
 
 .btn-desencriptar{
-    background-color: #edd5ff;
-    color: #5c3db0;
+    background-color: var(--btn-desencriptar);
+    color: var(--color-secundario);
 }
 
 .copiar {
-    background-color: #5c3db0;
+    background-color: var(--color-secundario);
     margin-top: 20px;
-    color: #fabbf7;
+    color: var(--color-text-copiar);
     margin-left: 4%;
 }
 
 .informacion {
-    color: #5c3db0;
+    color: var(--color-secundario);
     font-size: 18px;
     margin-top: 20px;
     text-align: center;
@@ -178,24 +185,24 @@ section .ojo {
 }
 
 .btn-desencriptar:hover{
-    background-color: aqua;
+    background-color: var(--color-terciario);
 }
 
 .btn-encriptar:hover{
-    background-color: rgb(176, 255, 255);
+    background-color: var(--creditos);
 }
 
 .copiar:hover{
-    background-color: #fabbf7;
-    color:  #5c3db0;
+    background-color: var(--color-text-copiar);
+    color:  var(--color-secundario);
 }
 
 .creditos{
-    background-color:  rgb(176, 255, 255);
+    background-color:  var(--creditos);
     padding: 24px;
     text-align: center;
     font-size: 24px;
     font-weight: 400;
     font-size: 20px;
-    color: #5c3db0;
+    color: var(--color-secundario);
 }

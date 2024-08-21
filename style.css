@@ -205,5 +205,5 @@ section .ojo {
     font-size: 24px;
     font-weight: 400;
     font-size: 20px;
-    color: var(--color-secundario);
+    color: var(--font-creditos);
 }

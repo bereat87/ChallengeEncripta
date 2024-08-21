@@ -82,7 +82,6 @@ section .ojo {
     height: 200px;
     resize: none;
     font-size: 32px;
-    border: none;
 }
 
 ::placeholder {

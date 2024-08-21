@@ -27,6 +27,7 @@
 }
 
 main {
+    flex-direction: row;
     display: flex;
     flex-direction: column;
     padding: 50px;

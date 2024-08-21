@@ -59,13 +59,13 @@ section .ojo {
 
 .text-area, .mensaje {
     border: none;
-    color: var(--color-secundario);
+    color: #5c3db0;
     margin-left: 5%;
     margin-top: 10px;
     padding: 10px;
     width: 100%;
     border-radius: 12px;
-    box-shadow: 0 4px 8px var(--color-secundario);
+    box-shadow: 0 4px 8px #5c3db0(0, 0, 0, 0.1);
     text-transform: lowercase;
 }
 

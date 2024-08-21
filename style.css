@@ -97,7 +97,7 @@ section .ojo {
 }
 
 .btn-desencriptar, .btn-encriptar, .copiar {
-    border: #5c3db0;
+    border: 1px solid var(--color-secundario);
     border-radius: 24px;
     color: var(--color-secundario);
     cursor: pointer;
